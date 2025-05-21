@@ -1,3 +1,4 @@
-bin/
-obj/
-wwwroot/
+.vscode
+GameStore.Client/bin/
+GameStore.Client/obj/
+GameStore.Client/wwwroot/
